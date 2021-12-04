@@ -1,0 +1,8 @@
+D:\С#\Card\Card\bin\Debug\Card.exe.config
+D:\С#\Card\Card\bin\Debug\Card.exe
+D:\С#\Card\Card\bin\Debug\Card.pdb
+D:\С#\Card\Card\obj\Debug\Card.csproj.AssemblyReference.cache
+D:\С#\Card\Card\obj\Debug\Card.csproj.SuggestedBindingRedirects.cache
+D:\С#\Card\Card\obj\Debug\Card.csproj.CoreCompileInputs.cache
+D:\С#\Card\Card\obj\Debug\Card.exe
+D:\С#\Card\Card\obj\Debug\Card.pdb
